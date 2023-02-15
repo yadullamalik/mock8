@@ -1,48 +1,49 @@
- { "products" : [
+{
+  "products": [
     {
-      "image":
-        "https://m.media-amazon.com/images/I/61r2Z5zN2rL._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/61r2Z5zN2rL._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "Curly/Wavy Hair Extension",
       "sale": true,
       "price": "23",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/51GazH8nYFL._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/51GazH8nYFL._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "Bridal Hair Extension Synthetic Curly",
       "sale": true,
       "price": "50",
-      "salePrice": "45"
+      "salePrice": "45",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/41W4OT2KPmL._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/41W4OT2KPmL._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "Pema Hair Extensions",
       "sale": false,
       "price": "32",
-      "salePrice": "28"
+      "salePrice": "28",
+      "type": "newarraival"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/61NFfDbPm5S._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/61NFfDbPm5S._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "AL ZAHRA Bangs Wave Fringe Hair Extension",
       "sale": false,
       "price": "23",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/41Db2XZhmeS._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/41Db2XZhmeS._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "Scheibe Clip Front Hair Fringe Hair Extension",
       "sale": false,
       "price": "23",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "newarraival"
     },
     {
       "image": "https://m.media-amazon.com/images/I/615RPnqE+IL._AC_UL320_.jpg",
@@ -50,7 +51,8 @@
       "name": "HairOriginals Pony Tail",
       "sale": true,
       "price": "200",
-      "salePrice": "180"
+      "salePrice": "180",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/31AiFTAysoL._AC_UL320_.jpg",
@@ -58,7 +60,8 @@
       "name": "Mayukha Medium Ponytail",
       "sale": false,
       "price": "23",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/61pr-OMoH8L._AC_UL320_.jpg",
@@ -66,7 +69,8 @@
       "name": "LUSH LOCKS® Wrap Around Ponytail",
       "sale": true,
       "price": "130",
-      "salePrice": "122 "
+      "salePrice": "122 ",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/31wra8kWB-L._AC_UL320_.jpg",
@@ -74,7 +78,8 @@
       "name": "Mayukha Medium Ponytail",
       "sale": false,
       "price": "23",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/6122YVuk7mS._AC_UL320_.jpg",
@@ -82,7 +87,8 @@
       "name": "Spotlight 4x4 Lace Front Wigs",
       "sale": true,
       "price": "80",
-      "salePrice": "69"
+      "salePrice": "69",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/81wO4OjbwVL._AC_UL320_.jpg",
@@ -90,7 +96,8 @@
       "name": "PIPIXIA Body Wave Lace Front Wigs ",
       "sale": true,
       "price": "149",
-      "salePrice": "99"
+      "salePrice": "99",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/61Zzl0MpH3L._AC_UL320_.jpg",
@@ -98,7 +105,8 @@
       "name": "Body Wave Lace Front Wigs",
       "sale": false,
       "price": "58",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "newarraival"
     },
     {
       "image": "https://m.media-amazon.com/images/I/71fBhMPpU9L._AC_UL320_.jpg",
@@ -106,52 +114,53 @@
       "name": "Heopiss Wave Lace Front Wigs",
       "sale": false,
       "price": "79",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/41Ff7z1IlJL._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/41Ff7z1IlJL._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "Shetal Hair Extension",
       "sale": true,
       "price": "60",
-      "salePrice": "52"
+      "salePrice": "52",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/41l9l9sKjwL._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/41l9l9sKjwL._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "RR Hair Extension Synthetic Curly",
       "sale": true,
       "price": "70",
-      "salePrice": "62"
+      "salePrice": "62",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/51SdrW0263L._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/51SdrW0263L._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "Pema Hair Extensions",
       "sale": false,
       "price": "32",
-      "salePrice": "28"
+      "salePrice": "28",
+      "type": "newarraival"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/51exbqxJUTL._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/51exbqxJUTL._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "AL ZAHRA Bangs Wave Fringe Hair Extension",
       "sale": false,
       "price": "23",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/41D7OK7V+mL._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/41D7OK7V+mL._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "Scheibe Clip Front Hair Fringe Hair Extension",
       "sale": false,
       "price": "32",
-      "salePrice": "27"
+      "salePrice": "27",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/41Ff7z1IlJL._AC_UL320_.jpg",
@@ -159,7 +168,8 @@
       "name": "HairOriginals Pony Tail",
       "sale": false,
       "price": "100",
-      "salePrice": "80"
+      "salePrice": "80",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/61+tmL4pbCL._AC_UL320_.jpg",
@@ -167,7 +177,8 @@
       "name": "Artific Ponytail",
       "sale": false,
       "price": "23",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "newarraival"
     },
     {
       "image": "https://m.media-amazon.com/images/I/81pfxhg-+oL._AC_UL320_.jpg",
@@ -175,7 +186,8 @@
       "name": "Paradise Ponytail",
       "sale": true,
       "price": "130",
-      "salePrice": "122 "
+      "salePrice": "122 ",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/41W4OT2KPmL._AC_UL320_.jpg",
@@ -183,7 +195,8 @@
       "name": "Pema Medium Ponytail",
       "sale": false,
       "price": "41",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/71Ju5ksXIBL._AC_UL320_.jpg",
@@ -191,7 +204,8 @@
       "name": "Lace Front Wigs",
       "sale": true,
       "price": "135",
-      "salePrice": "170"
+      "salePrice": "170",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/81b3ADAZcWL._AC_UL320_.jpg",
@@ -199,7 +213,8 @@
       "name": "Similiance Lace Front Wigs ",
       "sale": false,
       "price": "119",
-      "salePrice": "99"
+      "salePrice": "99",
+      "type": "newarraival"
     },
     {
       "image": "https://m.media-amazon.com/images/I/81xTgjTl4sL._AC_UL320_.jpg",
@@ -207,7 +222,8 @@
       "name": "Deep Lace Front Wigs",
       "sale": true,
       "price": "168",
-      "salePrice": "146"
+      "salePrice": "146",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/71cLenGw73L._AC_UL320_.jpg",
@@ -215,52 +231,53 @@
       "name": "Gianna Lace Front Wigs",
       "sale": false,
       "price": "45",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/61r2Z5zN2rL._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/61r2Z5zN2rL._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "Curly/Wavy Hair Extension",
       "sale": true,
       "price": "23",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/51GazH8nYFL._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/51GazH8nYFL._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "Bridal Hair Extension Synthetic Curly",
       "sale": true,
       "price": "50",
-      "salePrice": "45"
+      "salePrice": "45",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/41W4OT2KPmL._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/41W4OT2KPmL._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "Pema Hair Extensions",
       "sale": false,
       "price": "32",
-      "salePrice": "28"
+      "salePrice": "28",
+      "type": "newarraival"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/61NFfDbPm5S._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/61NFfDbPm5S._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "AL ZAHRA Bangs Wave Fringe Hair Extension",
       "sale": false,
       "price": "23",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/41Db2XZhmeS._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/41Db2XZhmeS._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "Scheibe Clip Front Hair Fringe Hair Extension",
       "sale": false,
       "price": "23",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/615RPnqE+IL._AC_UL320_.jpg",
@@ -268,7 +285,8 @@
       "name": "HairOriginals Pony Tail",
       "sale": true,
       "price": "200",
-      "salePrice": "180"
+      "salePrice": "180",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/31AiFTAysoL._AC_UL320_.jpg",
@@ -276,7 +294,8 @@
       "name": "Mayukha Medium Ponytail",
       "sale": false,
       "price": "23",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/61pr-OMoH8L._AC_UL320_.jpg",
@@ -284,7 +303,8 @@
       "name": "LUSH LOCKS® Wrap Around Ponytail",
       "sale": true,
       "price": "130",
-      "salePrice": "122 "
+      "salePrice": "122 ",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/31wra8kWB-L._AC_UL320_.jpg",
@@ -292,7 +312,8 @@
       "name": "Mayukha Medium Ponytail",
       "sale": false,
       "price": "23",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "newarraival"
     },
     {
       "image": "https://m.media-amazon.com/images/I/6122YVuk7mS._AC_UL320_.jpg",
@@ -300,7 +321,8 @@
       "name": "Spotlight 4x4 Lace Front Wigs",
       "sale": true,
       "price": "80",
-      "salePrice": "69"
+      "salePrice": "69",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/81wO4OjbwVL._AC_UL320_.jpg",
@@ -308,7 +330,8 @@
       "name": "PIPIXIA Body Wave Lace Front Wigs ",
       "sale": true,
       "price": "149",
-      "salePrice": "99"
+      "salePrice": "99",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/61Zzl0MpH3L._AC_UL320_.jpg",
@@ -316,7 +339,8 @@
       "name": "Body Wave Lace Front Wigs",
       "sale": false,
       "price": "58",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/71fBhMPpU9L._AC_UL320_.jpg",
@@ -324,52 +348,53 @@
       "name": "Heopiss Wave Lace Front Wigs",
       "sale": false,
       "price": "79",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/41Ff7z1IlJL._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/41Ff7z1IlJL._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "Shetal Hair Extension",
       "sale": true,
       "price": "60",
-      "salePrice": "52"
+      "salePrice": "52",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/41l9l9sKjwL._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/41l9l9sKjwL._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "RR Hair Extension Synthetic Curly",
       "sale": true,
       "price": "70",
-      "salePrice": "62"
+      "salePrice": "62",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/51SdrW0263L._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/51SdrW0263L._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "Pema Hair Extensions",
       "sale": false,
       "price": "32",
-      "salePrice": "28"
+      "salePrice": "28",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/51exbqxJUTL._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/51exbqxJUTL._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "AL ZAHRA Bangs Wave Fringe Hair Extension",
       "sale": false,
       "price": "23",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/41D7OK7V+mL._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/41D7OK7V+mL._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "Scheibe Clip Front Hair Fringe Hair Extension",
       "sale": false,
       "price": "32",
-      "salePrice": "27"
+      "salePrice": "27",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/41Ff7z1IlJL._AC_UL320_.jpg",
@@ -377,7 +402,8 @@
       "name": "HairOriginals Pony Tail",
       "sale": false,
       "price": "100",
-      "salePrice": "80"
+      "salePrice": "80",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/61+tmL4pbCL._AC_UL320_.jpg",
@@ -385,7 +411,8 @@
       "name": "Artific Ponytail",
       "sale": false,
       "price": "23",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/81pfxhg-+oL._AC_UL320_.jpg",
@@ -393,7 +420,8 @@
       "name": "Paradise Ponytail",
       "sale": true,
       "price": "130",
-      "salePrice": "122 "
+      "salePrice": "122 ",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/41W4OT2KPmL._AC_UL320_.jpg",
@@ -401,7 +429,8 @@
       "name": "Pema Medium Ponytail",
       "sale": false,
       "price": "41",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/71Ju5ksXIBL._AC_UL320_.jpg",
@@ -409,7 +438,8 @@
       "name": "Lace Front Wigs",
       "sale": true,
       "price": "135",
-      "salePrice": "170"
+      "salePrice": "170",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/81b3ADAZcWL._AC_UL320_.jpg",
@@ -417,7 +447,8 @@
       "name": "Similiance Lace Front Wigs ",
       "sale": false,
       "price": "119",
-      "salePrice": "99"
+      "salePrice": "99",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/81xTgjTl4sL._AC_UL320_.jpg",
@@ -425,7 +456,8 @@
       "name": "Deep Lace Front Wigs",
       "sale": true,
       "price": "168",
-      "salePrice": "146"
+      "salePrice": "146",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/71cLenGw73L._AC_UL320_.jpg",
@@ -433,52 +465,53 @@
       "name": "Gianna Lace Front Wigs",
       "sale": false,
       "price": "45",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/61r2Z5zN2rL._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/61r2Z5zN2rL._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "Curly/Wavy Hair Extension",
       "sale": true,
       "price": "23",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/51GazH8nYFL._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/51GazH8nYFL._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "Bridal Hair Extension Synthetic Curly",
       "sale": true,
       "price": "50",
-      "salePrice": "45"
+      "salePrice": "45",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/41W4OT2KPmL._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/41W4OT2KPmL._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "Pema Hair Extensions",
       "sale": false,
       "price": "32",
-      "salePrice": "28"
+      "salePrice": "28",
+      "type": "newarraival"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/61NFfDbPm5S._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/61NFfDbPm5S._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "AL ZAHRA Bangs Wave Fringe Hair Extension",
       "sale": false,
       "price": "23",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/41Db2XZhmeS._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/41Db2XZhmeS._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "Scheibe Clip Front Hair Fringe Hair Extension",
       "sale": false,
       "price": "23",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/615RPnqE+IL._AC_UL320_.jpg",
@@ -486,7 +519,8 @@
       "name": "HairOriginals Pony Tail",
       "sale": true,
       "price": "200",
-      "salePrice": "180"
+      "salePrice": "180",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/31AiFTAysoL._AC_UL320_.jpg",
@@ -494,7 +528,8 @@
       "name": "Mayukha Medium Ponytail",
       "sale": false,
       "price": "23",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/61pr-OMoH8L._AC_UL320_.jpg",
@@ -502,7 +537,8 @@
       "name": "LUSH LOCKS® Wrap Around Ponytail",
       "sale": true,
       "price": "130",
-      "salePrice": "122 "
+      "salePrice": "122 ",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/31wra8kWB-L._AC_UL320_.jpg",
@@ -510,7 +546,8 @@
       "name": "Mayukha Medium Ponytail",
       "sale": false,
       "price": "23",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/6122YVuk7mS._AC_UL320_.jpg",
@@ -518,7 +555,8 @@
       "name": "Spotlight 4x4 Lace Front Wigs",
       "sale": true,
       "price": "80",
-      "salePrice": "69"
+      "salePrice": "69",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/81wO4OjbwVL._AC_UL320_.jpg",
@@ -526,7 +564,8 @@
       "name": "PIPIXIA Body Wave Lace Front Wigs ",
       "sale": true,
       "price": "149",
-      "salePrice": "99"
+      "salePrice": "99",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/61Zzl0MpH3L._AC_UL320_.jpg",
@@ -534,7 +573,8 @@
       "name": "Body Wave Lace Front Wigs",
       "sale": false,
       "price": "58",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/71fBhMPpU9L._AC_UL320_.jpg",
@@ -542,52 +582,53 @@
       "name": "Heopiss Wave Lace Front Wigs",
       "sale": false,
       "price": "79",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "newarraival"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/41Ff7z1IlJL._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/41Ff7z1IlJL._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "Shetal Hair Extension",
       "sale": true,
       "price": "60",
-      "salePrice": "52"
+      "salePrice": "52",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/41l9l9sKjwL._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/41l9l9sKjwL._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "RR Hair Extension Synthetic Curly",
       "sale": true,
       "price": "70",
-      "salePrice": "62"
+      "salePrice": "62",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/51SdrW0263L._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/51SdrW0263L._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "Pema Hair Extensions",
       "sale": false,
       "price": "32",
-      "salePrice": "28"
+      "salePrice": "28",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/51exbqxJUTL._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/51exbqxJUTL._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "AL ZAHRA Bangs Wave Fringe Hair Extension",
       "sale": false,
       "price": "23",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/41D7OK7V+mL._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/41D7OK7V+mL._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "Scheibe Clip Front Hair Fringe Hair Extension",
       "sale": false,
       "price": "32",
-      "salePrice": "27"
+      "salePrice": "27",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/41Ff7z1IlJL._AC_UL320_.jpg",
@@ -595,7 +636,8 @@
       "name": "HairOriginals Pony Tail",
       "sale": false,
       "price": "100",
-      "salePrice": "80"
+      "salePrice": "80",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/61+tmL4pbCL._AC_UL320_.jpg",
@@ -603,7 +645,8 @@
       "name": "Artific Ponytail",
       "sale": false,
       "price": "23",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/81pfxhg-+oL._AC_UL320_.jpg",
@@ -611,7 +654,8 @@
       "name": "Paradise Ponytail",
       "sale": true,
       "price": "130",
-      "salePrice": "122 "
+      "salePrice": "122 ",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/41W4OT2KPmL._AC_UL320_.jpg",
@@ -619,7 +663,8 @@
       "name": "Pema Medium Ponytail",
       "sale": false,
       "price": "41",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "newarraival"
     },
     {
       "image": "https://m.media-amazon.com/images/I/71Ju5ksXIBL._AC_UL320_.jpg",
@@ -627,7 +672,8 @@
       "name": "Lace Front Wigs",
       "sale": true,
       "price": "135",
-      "salePrice": "170"
+      "salePrice": "170",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/81b3ADAZcWL._AC_UL320_.jpg",
@@ -635,7 +681,8 @@
       "name": "Similiance Lace Front Wigs ",
       "sale": false,
       "price": "119",
-      "salePrice": "99"
+      "salePrice": "99",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/81xTgjTl4sL._AC_UL320_.jpg",
@@ -643,7 +690,8 @@
       "name": "Deep Lace Front Wigs",
       "sale": true,
       "price": "168",
-      "salePrice": "146"
+      "salePrice": "146",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/71cLenGw73L._AC_UL320_.jpg",
@@ -651,52 +699,53 @@
       "name": "Gianna Lace Front Wigs",
       "sale": false,
       "price": "45",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/61r2Z5zN2rL._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/61r2Z5zN2rL._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "Curly/Wavy Hair Extension",
       "sale": true,
       "price": "23",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/51GazH8nYFL._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/51GazH8nYFL._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "Bridal Hair Extension Synthetic Curly",
       "sale": true,
       "price": "50",
-      "salePrice": "45"
+      "salePrice": "45",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/41W4OT2KPmL._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/41W4OT2KPmL._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "Pema Hair Extensions",
       "sale": false,
       "price": "32",
-      "salePrice": "28"
+      "salePrice": "28",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/61NFfDbPm5S._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/61NFfDbPm5S._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "AL ZAHRA Bangs Wave Fringe Hair Extension",
       "sale": false,
       "price": "23",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/41Db2XZhmeS._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/41Db2XZhmeS._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "Scheibe Clip Front Hair Fringe Hair Extension",
       "sale": false,
       "price": "23",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "newarraival"
     },
     {
       "image": "https://m.media-amazon.com/images/I/615RPnqE+IL._AC_UL320_.jpg",
@@ -704,7 +753,8 @@
       "name": "HairOriginals Pony Tail",
       "sale": true,
       "price": "200",
-      "salePrice": "180"
+      "salePrice": "180",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/31AiFTAysoL._AC_UL320_.jpg",
@@ -712,7 +762,8 @@
       "name": "Mayukha Medium Ponytail",
       "sale": false,
       "price": "23",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/61pr-OMoH8L._AC_UL320_.jpg",
@@ -720,7 +771,8 @@
       "name": "LUSH LOCKS® Wrap Around Ponytail",
       "sale": true,
       "price": "130",
-      "salePrice": "122 "
+      "salePrice": "122 ",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/31wra8kWB-L._AC_UL320_.jpg",
@@ -728,7 +780,8 @@
       "name": "Mayukha Medium Ponytail",
       "sale": false,
       "price": "23",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/6122YVuk7mS._AC_UL320_.jpg",
@@ -736,7 +789,8 @@
       "name": "Spotlight 4x4 Lace Front Wigs",
       "sale": true,
       "price": "80",
-      "salePrice": "69"
+      "salePrice": "69",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/81wO4OjbwVL._AC_UL320_.jpg",
@@ -744,7 +798,8 @@
       "name": "PIPIXIA Body Wave Lace Front Wigs ",
       "sale": true,
       "price": "149",
-      "salePrice": "99"
+      "salePrice": "99",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/61Zzl0MpH3L._AC_UL320_.jpg",
@@ -752,7 +807,8 @@
       "name": "Body Wave Lace Front Wigs",
       "sale": false,
       "price": "58",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/71fBhMPpU9L._AC_UL320_.jpg",
@@ -760,52 +816,53 @@
       "name": "Heopiss Wave Lace Front Wigs",
       "sale": false,
       "price": "79",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "newarraival"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/41Ff7z1IlJL._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/41Ff7z1IlJL._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "Shetal Hair Extension",
       "sale": true,
       "price": "60",
-      "salePrice": "52"
+      "salePrice": "52",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/41l9l9sKjwL._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/41l9l9sKjwL._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "RR Hair Extension Synthetic Curly",
       "sale": true,
       "price": "70",
-      "salePrice": "62"
+      "salePrice": "62",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/51SdrW0263L._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/51SdrW0263L._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "Pema Hair Extensions",
       "sale": false,
       "price": "32",
-      "salePrice": "28"
+      "salePrice": "28",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/51exbqxJUTL._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/51exbqxJUTL._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "AL ZAHRA Bangs Wave Fringe Hair Extension",
       "sale": false,
       "price": "23",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
-      "image":
-        "https://m.media-amazon.com/images/I/41D7OK7V+mL._AC._SR360,460.jpg",
+      "image": "https://m.media-amazon.com/images/I/41D7OK7V+mL._AC._SR360,460.jpg",
       "category": "Hair Extensions",
       "name": "Scheibe Clip Front Hair Fringe Hair Extension",
       "sale": false,
       "price": "32",
-      "salePrice": "27"
+      "salePrice": "27",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/41Ff7z1IlJL._AC_UL320_.jpg",
@@ -813,7 +870,8 @@
       "name": "HairOriginals Pony Tail",
       "sale": false,
       "price": "100",
-      "salePrice": "80"
+      "salePrice": "80",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/61+tmL4pbCL._AC_UL320_.jpg",
@@ -821,7 +879,8 @@
       "name": "Artific Ponytail",
       "sale": false,
       "price": "23",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/81pfxhg-+oL._AC_UL320_.jpg",
@@ -829,7 +888,8 @@
       "name": "Paradise Ponytail",
       "sale": true,
       "price": "130",
-      "salePrice": "122 "
+      "salePrice": "122 ",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/41W4OT2KPmL._AC_UL320_.jpg",
@@ -837,7 +897,8 @@
       "name": "Pema Medium Ponytail",
       "sale": false,
       "price": "41",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/71Ju5ksXIBL._AC_UL320_.jpg",
@@ -845,7 +906,8 @@
       "name": "Lace Front Wigs",
       "sale": true,
       "price": "135",
-      "salePrice": "170"
+      "salePrice": "170",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/81b3ADAZcWL._AC_UL320_.jpg",
@@ -853,7 +915,8 @@
       "name": "Similiance Lace Front Wigs ",
       "sale": false,
       "price": "119",
-      "salePrice": "99"
+      "salePrice": "99",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/81xTgjTl4sL._AC_UL320_.jpg",
@@ -861,7 +924,8 @@
       "name": "Deep Lace Front Wigs",
       "sale": true,
       "price": "168",
-      "salePrice": "146"
+      "salePrice": "146",
+      "type": "sale"
     },
     {
       "image": "https://m.media-amazon.com/images/I/71cLenGw73L._AC_UL320_.jpg",
@@ -869,7 +933,8 @@
       "name": "Gianna Lace Front Wigs",
       "sale": false,
       "price": "45",
-      "salePrice": "20"
+      "salePrice": "20",
+      "type": "newarraival"
     }
   ]
- }
+}
